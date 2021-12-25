@@ -156,6 +156,7 @@ h2,
 .attribution p {
   margin: 0;
   font-size: 16px;
+  text-align: center;
 }
 .attribution a {
   color: var(--dark-cyan);
