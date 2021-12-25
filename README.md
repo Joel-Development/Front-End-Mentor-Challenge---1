@@ -17,11 +17,13 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 
 ### Links
 
-- Solution URL: [Github](https://github.com/Joel-Development/FrontEndMentor---Challenge-1)
+- Solution URL: [Github](https://github.com/joel-development/frontendmentor---challenge-1)
+- Live: [Github Pages](https://joel-development.github.io/frontendmentor---challenge-1)
 
 ## Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+- BEM methodology
 - Mobile-first workflow
