@@ -162,6 +162,7 @@ h2,
 .attribution a {
   color: var(--dark-cyan);
   text-decoration: none;
+  font-weight: bold;
 }
 
 @media screen and (min-width: 860px) {
